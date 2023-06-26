@@ -14,7 +14,7 @@ The Train Station Visitor Counter is a project that tracks the number of visitor
 
 ## Preview
 
-![Train Station Visitor Counter](preview.png)
+![Train Station Visitor Counter](train-station.jpg)
 
 ## Getting Started
 
